@@ -1,4 +1,4 @@
-## Javascript
+## gitJavascript
 
 ## 1. Exercício Algoritmo
 
@@ -13,7 +13,7 @@
 9. Homem deixa o lobo na margem oposta do rio.
 10. Homem retorna sozinho à margem inicial do rio.
 11. Homem atravessa o rio com a cabra.
-12. Fim.
+12. Fim: Homem com seus 3 pertences na margem oposta do rio.
 
 ## 2. Exercício JS
 
